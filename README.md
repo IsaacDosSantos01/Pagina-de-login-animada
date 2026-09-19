@@ -15,5 +15,4 @@ O código e o design desta aplicação foram baseados no tutorial do canal **Asm
 * HTML5
 * CSS3 (Flexbox e Animações com Keyframes)
 * JavaScript
-
-<img width="734" height="669" alt="image" src="https://github.com/user-attachments/assets/d0fc9986-b47d-45a0-9e82-45c845df2acb" />
+<img width="737" height="482" alt="image" src="https://github.com/user-attachments/assets/7ba2f42a-87d7-4a8d-80fe-5c2fc62a9e13" />
